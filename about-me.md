@@ -1,53 +1,85 @@
 # About me
 
-Fill this in with your own information. Short answers are fine, and you can leave anything blank. Claude will turn it into your website.
+Your website already has a sample person, Jordan Lee. Fill in your own answers below, and Claude will swap Jordan out for you.
 
-You can also skip this file and paste your resume or LinkedIn "About" section straight into the chat instead.
+Each section of the page has a job. This structure comes from the **Audacious Bio™** framework by Professor Tiana S. Clark (Kellogg School of Management). The idea: a bio is not a pretty resume. It is your story.
+
+- Read the **Why** to see what the section is for.
+- Look at the **Example** to see how Jordan wrote it.
+- Write yours under **Mine**. Short answers are fine, and you can leave anything blank.
+
+Rather paste your resume or LinkedIn "About" section into the chat? That works too.
+
+---
 
 ## Name
+**Mine:**
 
 
-## Headline (a short phrase about you)
-<!-- Example: The Consultant Who Turns Data Into Decisions -->
+## Headline
+**Why:** A memorable nickname for who you are. People remember a phrase better than a job title.
+**Example:** The Consultant Who Turns Data Into Decisions
+**Mine:**
 
 
-## Tagline (one sentence)
-<!-- Example: I help teams cut through the noise so they can focus on what matters. -->
+## Tagline
+**Why:** Your pitch in one sentence: what you do, or where you are heading.
+**Example:** I help teams cut through the noise so they can focus on what matters.
+**Mine:**
 
 
-## About me (2 to 4 sentences)
+## About me
+**Why:** You, the person. Your story and your "why" in 2 to 4 sentences. This is the emotional side of your bio.
+**Example:** I spent four years helping retail companies fix their supply chains, and I am now pursuing my MBA to move into product management. I like messy problems, clear writing, and long walks where I think through both.
+**Mine:**
 
 
-## I'm a... (a few words that describe you)
-<!-- Example: Problem Solver. Runner. Home Cook. Board Game Host. -->
+## I'm a...
+**Why:** The whole you, not just your job. Mix professional roles with human quirks.
+**Example:** I'm a Problem Solver. Spreadsheet Fan. Runner. Home Cook. Board Game Host. Bilingual Communicator.
+**Mine:**
 
 
 ## Fun fact
+**Why:** A conversation starter. Give people an easy, friendly way to open a chat with you.
+**Example:** I have visited every coffee shop within a mile of campus, and I have a ranking to prove it.
+**Mine:**
 
 
 ## Areas of interest (up to 4)
+**Why:** What people can talk to you about. Interests open doors to conversations and opportunities.
+**Example:** Products that make everyday life easier. Using data to make better decisions.
+**Mine:**
 -
 -
 -
 -
 
 ## What I bring to a team (up to 3 highlights)
-<!-- A short title, then one or two sentences -->
+**Why:** Your three best career moments, each with a short story and its impact. This is the business side of your bio. Tip: swap these depending on who will read it.
+**Example:** Calm in the messy middle: I led supply chain projects for three national retailers and cut delivery delays by 20 percent.
+**Mine:**
 1.
 2.
 3.
 
 ## Something nice someone said about me (optional)
-<!-- The quote, their name, and their role -->
+**Why:** An endorsement. It means more when someone else says it.
+**Example:** "Jordan makes complicated problems feel manageable, and makes everyone in the room feel heard." Sam Rivera, Engagement Manager
+**Mine:**
 
 
-## Projects or things I am proud of (up to 3)
-<!-- Anything counts: a side project, a club you run, a trip you planned. Name, one sentence, year. -->
+## Projects (up to 3)
+**Why:** Proof that you make things happen. Anything counts: a side project, a club you run, a trip you planned.
+**Example:** Campus Coffee Finder: a simple map of every coffee spot near campus, with opening hours and wifi ratings. (2026)
+**Mine:**
 1.
 2.
 3.
 
 ## Contact
+**Why:** Make it easy for people to reach you.
+**Mine:**
 - Email:
 - LinkedIn:
 - GitHub:
