@@ -49,13 +49,13 @@ Create 3 very different visual styles for my website as separate pages I can com
 2. Pick your favorite, then send this (change the number):
 
 ```
-I like option 2. Apply that style to my website, then delete the option files.
+I like option 2. Make my real website (index.html and style.css) look exactly like option 2, then delete all the option-1, option-2 and option-3 files.
 ```
 
 ## Step 4. Add a feature (7 min)
 
 ```
-Add an FAQ section to my website, with an "FAQ" link in the top menu that scrolls to it. Write 4 questions people might ask me, based on my information. Each answer should open and close when I click the question.
+Add an FAQ section at the bottom of my website, and a small "FAQ" link at the top of the page that scrolls down to it. Write 4 questions people might ask me, based on my information. Each answer should open and close when I click the question. Check that it also looks right on a phone-sized screen.
 ```
 
 ---

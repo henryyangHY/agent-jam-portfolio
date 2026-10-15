@@ -151,6 +151,8 @@ a:hover{color:var(--primary-deep)}
 }
 @media (max-width:859px){
   .bio__row,.bio__cell{display:contents}
+  /* Anything new added to the page lands at the bottom on phones. */
+  .bio>*{order:99}
   .bio__id{order:1}.bio__photo{order:2}.bio__contact{order:3}.bio__about{order:4}.bio__proofs{order:5}.bio__testimonial{order:6}.bio__areas{order:7}.bio__cta{order:8}.projects{order:9}
   .bio__id{align-items:center;text-align:center}
   .bio__tagline{margin-left:auto;margin-right:auto}
@@ -204,6 +206,8 @@ strong.cb-em{font-weight:700}
 }
 
 /* ===================== starter additions ===================== */
+/* Placeholder profile picture: initials until you add a real photo. */
+.avatar__initials{width:100%;height:100%;display:grid;place-items:center;background:var(--primary);color:var(--surface-card);font-family:var(--font-display);font-weight:800;font-size:clamp(72px,14vw,140px);letter-spacing:-.04em;line-height:1}
 /* Photo and project cards are not clickable here, so no pointer cursor. */
 .avatar,.project__open{cursor:default}
 /* Placeholder until you add a real project photo. */
