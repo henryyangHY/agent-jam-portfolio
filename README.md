@@ -13,14 +13,14 @@ In the next 30 minutes you will turn Jordan Lee's sample page into your own pers
 
 ---
 
-## Step 1. Get the project onto your laptop (8 min)
+## Step 1. Get the project onto your laptop (7 min)
 
 1. Open the **Claude** app and go to the **Code** tab
 2. Start a new **local** session and choose your **Documents** folder
 3. Copy this into the chat and press Enter:
 
 ```
-Clone https://github.com/henryyangHY/agent-jam-portfolio into this folder, then open index.html in my browser.
+Help me copy this project to my device, then open index.html in my browser: https://github.com/henryyangHY/agent-jam-portfolio
 ```
 
 4. You should see a sample page for "Jordan Lee". That is your starting point.
@@ -38,7 +38,7 @@ Clone https://github.com/henryyangHY/agent-jam-portfolio into this folder, then 
 Read about-me.md and replace Jordan Lee's information on my website with mine. Keep the current layout. If I left something blank, remove that part.
 ```
 
-## Step 3. Pick a style (8 min)
+## Step 3. Pick a style (7 min)
 
 1. Send this:
 
@@ -52,7 +52,7 @@ Create 3 very different visual styles for my website as separate pages I can com
 I like option 2. Make my real website (index.html and style.css) look exactly like option 2, then delete all the option-1, option-2 and option-3 files.
 ```
 
-## Step 4. Add a feature (7 min)
+## Step 4 (optional). Add a feature
 
 ```
 Add an FAQ section at the bottom of my website, and a small "FAQ" link at the top of the page that scrolls down to it. Write 4 questions people might ask me, based on my information. Each answer should open and close when I click the question. Check that it also looks right on a phone-sized screen.
