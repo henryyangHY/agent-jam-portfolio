@@ -1,13 +1,13 @@
 # About me
 
-Your website already has a sample person, Jordan Lee. Fill in your own answers below, and Claude will swap Jordan out for you.
+Your website already has a sample person, John Doe. Fill in your own answers below, and Claude will swap John out for you.
 
 Each section of the page has a job. This structure comes from the **Audacious Bio™** framework by Professor Tiana S. Clark (Kellogg School of Management). The idea: a bio is not a pretty resume. It is your story.
 
 Your bio has two arcs. The **emotional arc** is who you are. The **business arc** is what you have done and where you are going.
 
 - Read the **Why** to see what the section is for.
-- Look at the **Example** to see how Jordan wrote it.
+- Look at the **Example** to see how John wrote it.
 - Write yours under **Mine**. Short answers are fine, and you can leave anything blank.
 
 Rather paste your resume or LinkedIn "About" section into the chat? That works too.
@@ -67,7 +67,7 @@ Rather paste your resume or LinkedIn "About" section into the chat? That works t
 
 ## Something nice someone said about me (optional)
 **Why (business arc):** An endorsement. It means more when someone else says it.
-**Example:** "Jordan makes complicated problems feel manageable, and makes everyone in the room feel heard." Sam Rivera, Engagement Manager
+**Example:** "John makes complicated problems feel manageable, and makes everyone in the room feel heard." Sam Rivera, Engagement Manager
 **Mine:**
 
 

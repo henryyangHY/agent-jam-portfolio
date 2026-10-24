@@ -1,6 +1,6 @@
 # Agent Jam: Build Your Portfolio
 
-In the next 30 minutes you will turn Jordan Lee's sample page into your own personal website, without writing any code yourself. You describe what you want. Claude does the work.
+In the next 30 minutes you will turn John Doe's sample page into your own personal website, without writing any code yourself. You describe what you want. Claude does the work.
 
 **What is in this folder**
 
@@ -23,7 +23,7 @@ In the next 30 minutes you will turn Jordan Lee's sample page into your own pers
 Help me copy this project to my device, then open index.html in my browser: https://github.com/henryyangHY/agent-jam-portfolio
 ```
 
-4. You should see a sample page for "Jordan Lee". That is your starting point.
+4. You should see a sample page for "John Doe". That is your starting point.
 5. Start a **new** local session, and this time choose the new **agent-jam-portfolio** folder. From now on, work in this session.
 
 > When Claude asks for permission to run something or edit a file, read what it says, then click **Allow**.
@@ -35,7 +35,7 @@ Help me copy this project to my device, then open index.html in my browser: http
 2. Send this:
 
 ```
-Read about-me.md and replace Jordan Lee's information on my website with mine. Keep the current layout. If I left something blank, remove that part.
+Read about-me.md and replace John Doe's information on my website with mine. Keep the current layout. If I left something blank, remove that part.
 ```
 
 ## Step 3. Pick a style (7 min)
