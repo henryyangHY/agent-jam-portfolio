@@ -52,11 +52,19 @@ Create 3 very different visual styles for my website as separate pages I can com
 I like option 2. Make my real website (index.html and style.css) look exactly like option 2, then delete all the option-1, option-2 and option-3 files.
 ```
 
-## Step 4 (optional). Add a feature
+## Step 4 (optional). Put it online with GitHub Pages
+
+Right now your website only lives on your laptop. This step gives it a public link you can share with anyone.
+
+> Your website will be public. Only publish what you are happy for anyone to see.
 
 ```
-Add an FAQ section at the bottom of my website, and a small "FAQ" link at the top of the page that scrolls down to it. Write 4 questions people might ask me, based on my information. Each answer should open and close when I click the question. Check that it also looks right on a phone-sized screen.
+Publish my website on GitHub Pages with my own GitHub account. Create a new public repository called my-portfolio and upload only the files the website needs: index.html, style.css and the fonts folder. Then turn on GitHub Pages. I'm new to GitHub, so if I need to sign in or click something in the browser, tell me exactly what to do, one step at a time. When it's live, give me the link.
 ```
+
+- The link will look like `https://your-username.github.io/my-portfolio/`.
+- The first time, it can take 1 to 2 minutes before the link works. If you see "404", wait a moment and refresh.
+- Not finished by the end of the workshop? No problem. Send the same prompt tonight.
 
 ---
 
